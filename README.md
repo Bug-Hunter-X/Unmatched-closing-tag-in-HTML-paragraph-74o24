@@ -1,0 +1,1 @@
+This repository demonstrates a common yet often overlooked HTML error: an unmatched closing tag.  The bug.html file contains an unclosed paragraph tag, potentially causing rendering inconsistencies across different browsers. The bugSolution.html file provides the corrected code.
